@@ -1,0 +1,200 @@
+﻿position,strategies,chunk_id,chunk_text,coherence_score_0_2,reason
+wdr2021:p23@1674,A,wdr2021:p23:f3,"outcomes, but only if they are
+used systematically in ways that create information
+that generates insights that improve lives.
+This Report aims to answer two fundamental
+questions. First, how can data better advance development objectives? Second, what kind of data governance arrangements are needed to support the generation and use of data in a safe, ethical, and secure way
+while also delivering value equitably?
+One important message of this Report is that
+simply gathering more data is not the",1,"Đoạn 499 ký tự bị cắt giữa câu ở cả hai đầu ('outcomes, but only if they are...' đến '...simply gathering more data is not the'); ý giữa đọc được nhưng thiếu mở/đóng."
+wdr2021:p23@1674,B+C,wdr2021:p23:p2,"Just as electricity
+itself did not result in economic development, data
+alone will not improve well-being. Data can improve
+social and economic outcomes, but only if they are
+used systematically in ways that create information
+that generates insights that improve lives.
+This Report aims to answer two fundamental
+questions. First, how can data better advance development objectives? Second, what kind of data governance arrangements are needed to support the generation and use of data in a safe, ethical, and secure way
+while also delivering value equitably?",2,"Đoạn 560 ký tự trọn vẹn từ đầu câu ('Just as electricity...') đến hết dấu chấm hỏi ('...while also delivering value equitably?'), giữ đủ một luận điểm."
+wdr2021:p24@1507,A,wdr2021:p24:f3,"The phrase “sharing and reuse” is shorthand used
+in this Report for all the types of transactions and
+exchanges of data that permit reuse, from government
+open data initiatives for sharing data to market-based
+transactions for data involving private firms. In theory,
+defining clear economic property rights over data
+should enable data to be traded widely on markets.
+But in practice, the extent of the data trade (beyond the
+market for advertising) has been limited by competing
+claims on ownership",1,Đoạn 500 ký tự mở đúng đầu câu ('The phrase “sharing and reuse”...') nhưng cắt ngang mệnh đề ở cuối ('...limited by competing claims on ownership').
+wdr2021:p24@1507,B+C,wdr2021:p24:p2,"The phrase “sharing and reuse” is shorthand used
+in this Report for all the types of transactions and
+exchanges of data that permit reuse, from government
+open data initiatives for sharing data to market-based
+transactions for data involving private firms. In theory,
+defining clear economic property rights over data
+should enable data to be traded widely on markets.
+But in practice, the extent of the data trade (beyond the
+market for advertising) has been limited by competing
+claims on ownership, tensions between the wide dissemination of data and incentives to accumulate more
+data for private commercial gain, and difficulties in
+assessing the quality and accuracy of data.",2,"Đoạn 681 ký tự bắt đầu trọn câu định nghĩa và kết thúc trọn câu ('...assessing the quality and accuracy of data.'), mạch lạc và đủ ngữ cảnh."
+wdr2021:p25@2320,A,wdr2021:p25:f5,"to have a positive effect.
+In The Gambia, the maps helped reveal that the
+lockdown disproportionally affected poorer districts,
+indicating a need for relief and recovery efforts to target these areas. In Israel, analysis of the cellular data
+suggested their use led to identification of more than
+one-third of all of the country’s coronavirus cases in
+the early weeks of the pandemic (more than 5,500 of
+the 16,200 people who had contracted the disease),
+possibly contributing to Israel’s exceptional",1,Đoạn 500 ký tự mở giữa câu ('to have a positive effect.') và cắt ngang giữa từ ở cuối ('Israel’s exceptional' mất đuôi 'ly').
+wdr2021:p25@2320,B+C,wdr2021:p25:p4,"In The Gambia, the maps helped reveal that the
+lockdown disproportionally affected poorer districts,
+indicating a need for relief and recovery efforts to target these areas. In Israel, analysis of the cellular data
+suggested their use led to identification of more than
+one-third of all of the country’s coronavirus cases in
+the early weeks of the pandemic (more than 5,500 of
+the 16,200 people who had contracted the disease),
+possibly contributing to Israel’s exceptionally low initial rates of coronavirus infections and deaths.",2,"Đoạn 531 ký tự ghép trọn các câu hoàn chỉnh từ 'In The Gambia...' đến '...coronavirus infections and deaths.', không gãy câu hay gãy từ."
+wdr2021:p26@2399,A,wdr2021:p26:f5,"ohn Locke, and Jean-Jacques Rousseau.
+Legal systems, and governance more generally, can
+be viewed as instruments for establishing, facilitating,
+and enforcing social contracts. Persuading parties to
+abide by the rules of a social contract is not an easy
+task and will hinge on ensuring that the benefits
+from using data are shared in an equitable way—that
+is, everyone has something to gain. In this process,
+lower-income countries are too often disadvantaged,
+lacking, as they often do, the infrastr",1,Đoạn 500 ký tự gãy chữ ở cả hai đầu: mở đầu 'ohn Locke...' (mất 'J') và kết thúc giữa từ 'the infrastr'.
+wdr2021:p26@2399,B+C,wdr2021:p26:p4,"Legal systems, and governance more generally, can
+be viewed as instruments for establishing, facilitating,
+and enforcing social contracts. Persuading parties to
+abide by the rules of a social contract is not an easy
+task and will hinge on ensuring that the benefits
+from using data are shared in an equitable way—that
+is, everyone has something to gain. In this process,
+lower-income countries are too often disadvantaged,
+lacking, as they often do, the infrastructure and skills
+to capture data and turn them into value; the institutional and regulatory frameworks to create trust in
+data systems; and the scale and agency to participate
+equitably in global data markets and their governance.",2,"Đoạn 693 ký tự trọn vẹn từ 'Legal systems, and governance more generally...' đến '...global data markets and their governance.', ranh giới câu rõ."
+wdr2021:p27@2264,A,wdr2021:p27:f5,"t a variety of factors prevent countries—particularly low-income ones—from realizing
+greater value from data for the public good. These
+impediments include lack of resources, technical
+capacity, data governance, and demand for datainformed decision-making. The World Bank’s Statistical Performance Indicators, released as part of this
+Report, identify gaps in the availability, quality, and
+usability of public intent data across 174 countries,
+focusing on features related to the timeliness, granula",1,"Đoạn 500 ký tự gãy chữ ở cả hai đầu: mở đầu 't a variety of factors...' (mất 'Ye') và kết thúc giữa từ 'timeliness, granula'."
+wdr2021:p27@2264,B+C,wdr2021:p27:p4,"Yet a variety of factors prevent countries—particularly low-income ones—from realizing
+greater value from data for the public good. These
+impediments include lack of resources, technical
+capacity, data governance, and demand for datainformed decision-making. The World Bank’s Statistical Performance Indicators, released as part of this
+Report, identify gaps in the availability, quality, and
+usability of public intent data across 174 countries,
+focusing on features related to the timeliness, granularity, interoperability, and accessibility of those data.7
+Unleashing the full potential of public intent data
+requires high-level prioritization of data in the policy
+process.",2,"Đoạn 677 ký tự đủ câu mở ('Yet a variety of factors...') và câu kết ('...prioritization of data in the policy process.'), tự đủ nghĩa."
+wdr2021:p28@2569,A,wdr2021:p28:f5,"uses include the failure of firms to properly protect
+the financial information of clients—exposing them
+to theft of funds or identity—or firms’ engagement in
+unauthorized use of, or failure to protect, individuals’
+confidential health or location data.
+Many of the processes through which firms create
+value with their data are driven by algorithms and
+machine learning. In these models, algorithms determine, among other things, what information, products, or services individuals are exposed to an",1,Đoạn 500 ký tự cắt giữa từ ở đầu ('uses include the failure of firms...') và cắt lửng cụm giới từ ở cuối ('...individuals are exposed to an').
+wdr2021:p28@2569,B+C,wdr2021:p28:p4,"Many of the processes through which firms create
+value with their data are driven by algorithms and
+machine learning. In these models, algorithms determine, among other things, what information, products, or services individuals are exposed to and at
+what price; what insurance packages they are offered;
+whether their loan applications are approved; what
+jobs they qualify for; and what medical advice they
+receive.",2,Đoạn 416 ký tự nguyên vẹn từ 'Many of the processes through which firms create value...' đến '...and what medical advice they receive.'.
+wdr2021:p30@2601,A,wdr2021:p30:f5,"ll economic and social
+value of both public intent and private intent data
+and leverages synergies between them. This involves
+creating trust in the integrity of the data system,
+while ensuring that the benefits of data are equitably
+shared. Such a framework is the tangible expression
+of a country’s social contract around data.
+Part II of this Report describes these building
+blocks of data governance, which can deliver the
+potential benefits of data while safeguarding against
+harmful outcomes (f",1,Đoạn 500 ký tự gãy chữ ở đầu ('ll economic and social value...' mất 'fu') và cắt ngang trích dẫn ở cuối ('harmful outcomes (f').
+wdr2021:p30@2601,B+C,wdr2021:p30:p4,"Part II of this Report describes these building
+blocks of data governance, which can deliver the
+potential benefits of data while safeguarding against
+harmful outcomes (figure O.3). These building blocks
+include data infrastructure policies (chapter 5); policies, laws, and regulations around data (chapter 6);
+related economic policies (chapter 7); and data governance institutions (chapter 8).
+Although much of data governance is domestic
+in focus, an efficient and equitable resolution of
+many data governance challenges is possible only
+with international collaboration. Bilateral efforts are
+needed to manage cross-border spillovers of antitrust
+decisions and to join forces to combat cybercrime.",2,"Đoạn 701 ký tự hoàn chỉnh từ 'Part II of this Report describes...' đến '...join forces to combat cybercrime.', liền mạch từ đầu tới cuối."
+wdr2021:p31@1899,A,wdr2021:p31:f4,"is too limited to support more than one infrastructure network.
+The second challenge is that a substantial majority of the 40 percent of the world’s population who do
+not use data services live within range of a broadband
+signal. Of people living in low- and middle-income
+countries who do not access the internet, more than
+two-thirds stated in a survey that they do not know
+what the internet is or how to use it, indicating that
+digital literacy is a major issue. 15 Affordability is also
+a facto",1,Đoạn 499 ký tự mở giữa câu ('is too limited to support...') và gãy chữ ở cuối ('Affordability is also a facto').
+wdr2021:p31@1899,B+C,wdr2021:p31:p3,"The second challenge is that a substantial majority of the 40 percent of the world’s population who do
+not use data services live within range of a broadband
+signal. Of people living in low- and middle-income
+countries who do not access the internet, more than
+two-thirds stated in a survey that they do not know
+what the internet is or how to use it, indicating that
+digital literacy is a major issue. 15 Affordability is also
+a factor in low- and middle-income countries, where
+the cost of an entry-level smartphone represents
+about 80 percent of monthly income of the bottom
+20 percent of households.16 Relatively high taxes and
+duties further contribute to this expense.",2,"Đoạn 674 ký tự mở trọn câu ('The second challenge...') và kết thúc trọn câu ('...further contribute to this expense.'), không đứt ngữ cảnh."
+wdr2021:p32@1631,A,wdr2021:p32:f3,"al private sector investment
+climate should provide for reliable, clean, low-cost
+electricity, natural cooling, and negligible disaster
+risk—conditions that are not always readily met in
+low- and middle-income countries.
+Data laws and regulations can help create
+an environment of trust
+Trust in data transactions can be supported through a
+robust legal and regulatory framework encompassing
+both safeguards and enablers (chapter 6). The establishment of such a framework remains a work in progress
+a",1,Đoạn 500 ký tự gãy từ ở cả hai đầu: mở đầu 'al private sector investment climate...' và kết thúc 'work in progress a'.
+wdr2021:p32@1631,B+C,wdr2021:p32:p2,"Because of the extremely
+high standards of reliability required for data infrastructure, as well as concerns about the carbon
+footprint of data, the ideal private sector investment
+climate should provide for reliable, clean, low-cost
+electricity, natural cooling, and negligible disaster
+risk—conditions that are not always readily met in
+low- and middle-income countries.
+Data laws and regulations can help create
+an environment of trust
+Trust in data transactions can be supported through a
+robust legal and regulatory framework encompassing
+both safeguards and enablers (chapter 6). The establishment of such a framework remains a work in progress
+across all country income groups (figure O.4).",2,"Đoạn 697 ký tự hoàn chỉnh từ 'Because of the extremely high standards...' đến '...across all country income groups (figure O.4).', giữ đủ lập luận."
+wdr2021:p33@2363,A,wdr2021:p33:f5,"lose public
+intent data through open data policies (encouraging
+proactive publication of government data), together
+with access to information legislation (giving citizens
+a legally enforceable right to compel disclosure). For
+real impact, however, open data policies must be
+supported by a consistent protocol for classifying
+sensitive data, combined with interoperable technical standards, machine readable formats, and open
+licensing to facilitate subsequent reuse.
+Governments have much less infl",1,Đoạn 500 ký tự gãy từ ở cả hai đầu: mở đầu 'lose public intent data...' (mất 'disc') và kết thúc 'Governments have much less infl'.
+wdr2021:p33@2363,B+C,wdr2021:p33:p3,"Enablers facilitate access to and reuse of data
+within and among stakeholder groups to ensure
+that the full social and economic value of data can
+be captured. The nature and extent of provisions to
+support data sharing differ markedly across public
+intent and private intent data. Significant efforts have
+been made around the world to safely disclose public
+intent data through open data policies (encouraging
+proactive publication of government data), together
+with access to information legislation (giving citizens
+a legally enforceable right to compel disclosure).",2,"Đoạn 569 ký tự nguyên đoạn từ 'Enablers facilitate access to and reuse of data...' đến '...right to compel disclosure).', đầy đủ mệnh đề."

@@ -1,0 +1,16 @@
+Corpus: 1 documents, 201 content pages, 25 page issues
+Embedder: gemini-embedding-001 (768 dims)
+Index A: {'chunks': 2001, 'embedded_this_run': 0, 'unchanged_skipped': 2001, 'deleted_obsolete': 0, 'rows_in_store': 2001, 'len_min': 56, 'len_mean': 478.3, 'len_median': 500, 'len_max': 500, 'total_chars': 957027, 'embed_seconds': 0.0, 'ingest_seconds': 0.13, 'embedding_tokens_this_run': 0, 'cost_usd_this_run': 'API reports no token usage; check provider billing (free tier = 0)'}
+  index B: 100/895 chunks embedded
+  index B: 200/895 chunks embedded
+  index B: 300/895 chunks embedded
+  index B: 400/895 chunks embedded
+  index B: 500/895 chunks embedded
+  index B: 600/895 chunks embedded
+  index B: 700/895 chunks embedded
+  index B: 800/895 chunks embedded
+  index B: 895/895 chunks embedded
+Index B: {'chunks': 1495, 'embedded_this_run': 895, 'unchanged_skipped': 600, 'deleted_obsolete': 0, 'rows_in_store': 1495, 'len_min': 29, 'len_mean': 579.5, 'len_median': 622, 'len_max': 800, 'total_chars': 866281, 'embed_seconds': 544.54, 'ingest_seconds': 546.16, 'embedding_tokens_this_run': 0, 'cost_usd_this_run': 'API reports no token usage; check provider billing (free tier = 0)'}
+
+Ingest done. Add C:\Users\Admin\Downloads\LabVinUni\K5-L3B-DAY06-TranDucDuy-2A202604071-DataIngestion\benchmark\questions.json and run again to benchmark (unchanged chunks are not re-embedded).
+EXIT 0

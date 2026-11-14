@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed-size characters per page,500,50,"document_id, source, page, char_start/char_end, title, year, document_type, language, part, chapter, chapter_title",none,gemini-embedding-001 (768 dims; RETRIEVAL_DOCUMENT / RETRIEVAL_QUERY),"Chia 500 ký tự có overlap 50 tạo nhiều chunk nhỏ nhưng dễ cắt ngang câu làm giảm coherence, và không lọc metadata sẽ kéo nhiễu liên chương.",11/15,12/15,2/5,4/5,"2001 chunks; filter compliance dev 2/3, test 1/2 (no filter applied)"
+B,paragraph packing per page (split long paragraphs at sentence ends),800 (max),0,same as A,none,gemini-embedding-001 (768 dims),"Gom theo đoạn tối đa 800 ký tự giữ trọn ranh giới câu/đoạn giúp tăng coherence và Hit@3 hơn A, nhưng thiếu lọc metadata vẫn gây nhiễu với câu hỏi giới hạn chương.",12/15,14/15,2/5,4/5,"1495 chunks; filter compliance dev 3/3, test 1/2 (no filter applied)"
+C,same index as B,800 (max),0,same as A,"metadata chapter = value given with the question (5 of 20 questions); others unfiltered",gemini-embedding-001 (768 dims),"Dùng lại index B và chỉ bật SQL filter theo trường chapter khi câu hỏi yêu cầu giúp tuân thủ phạm vi chương 100%, loại nhiễu ngoài chương và giữ/tăng Hit@3.",12/15,14/15,2/5,5/5,"reuses index B; only difference from B is the SQL filter; filter compliance dev 3/3, test 2/2"

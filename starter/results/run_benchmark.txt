@@ -1,0 +1,16 @@
+Corpus: 1 documents, 201 content pages, 25 page issues
+Benchmark: 20 questions verified
+Embedder: gemini-embedding-001 (768 dims)
+Index A: {'chunks': 2001, 'embedded_this_run': 0, 'unchanged_skipped': 2001, 'deleted_obsolete': 0, 'rows_in_store': 2001, 'len_min': 56, 'len_mean': 478.3, 'len_median': 500, 'len_max': 500, 'total_chars': 957027, 'embed_seconds': 0.0, 'ingest_seconds': 0.08, 'embedding_tokens_this_run': 0, 'cost_usd_this_run': 'API reports no token usage; check provider billing (free tier = 0)'}
+Index B: {'chunks': 1495, 'embedded_this_run': 0, 'unchanged_skipped': 1495, 'deleted_obsolete': 0, 'rows_in_store': 1495, 'len_min': 29, 'len_mean': 579.5, 'len_median': 622, 'len_max': 800, 'total_chars': 866281, 'embed_seconds': 0.0, 'ingest_seconds': 0.08, 'embedding_tokens_this_run': 0, 'cost_usd_this_run': 'API reports no token usage; check provider billing (free tier = 0)'}
+
+Strategy  Split  Hit@1      Hit@3      Filter compliance
+A         dev    11/15 (0.73)  12/15 (0.80)  2/3
+A         test    2/5  (0.40)   4/5  (0.80)  1/2
+B         dev    12/15 (0.80)  14/15 (0.93)  3/3
+B         test    2/5  (0.40)   4/5  (0.80)  1/2
+C         dev    12/15 (0.80)  14/15 (0.93)  3/3
+C         test    2/5  (0.40)   5/5  (1.00)  2/2
+
+Results written to C:\Users\Admin\Downloads\LabVinUni\K5-L3B-DAY06-TranDucDuy-2A202604071-DataIngestion\starter\results. Fill in the manual audit CSVs by hand.
+EXIT 0

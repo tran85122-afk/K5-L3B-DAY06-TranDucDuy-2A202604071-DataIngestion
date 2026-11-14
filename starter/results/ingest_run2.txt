@@ -1,0 +1,58 @@
+Corpus: 1 documents, 201 content pages, 25 page issues
+Embedder: gemini-embedding-001 (768 dims)
+  index A: 100/1201 chunks embedded
+  index A: 200/1201 chunks embedded
+  index A: 300/1201 chunks embedded
+  index A: 400/1201 chunks embedded
+  index A: 500/1201 chunks embedded
+  index A: 600/1201 chunks embedded
+  index A: 700/1201 chunks embedded
+  index A: 800/1201 chunks embedded
+  index A: 900/1201 chunks embedded
+Traceback (most recent call last):
+  File "C:\Users\Admin\Downloads\LabVinUni\K5-L3B-DAY06-TranDucDuy-2A202604071-DataIngestion\starter\src\embeddings.py", line 136, in _post
+    with urllib.request.urlopen(request, timeout=120) as response:
+         ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\anaconda3\Lib\urllib\request.py", line 189, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\anaconda3\Lib\urllib\request.py", line 495, in open
+    response = meth(req, response)
+  File "C:\Users\Admin\anaconda3\Lib\urllib\request.py", line 604, in http_response
+    response = self.parent.error(
+        'http', request, response, code, msg, hdrs)
+  File "C:\Users\Admin\anaconda3\Lib\urllib\request.py", line 533, in error
+    return self._call_chain(*args)
+           ~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\Admin\anaconda3\Lib\urllib\request.py", line 466, in _call_chain
+    result = func(*args)
+  File "C:\Users\Admin\anaconda3\Lib\urllib\request.py", line 613, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\Admin\Downloads\LabVinUni\K5-L3B-DAY06-TranDucDuy-2A202604071-DataIngestion\starter\src\run.py", line 295, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\Admin\Downloads\LabVinUni\K5-L3B-DAY06-TranDucDuy-2A202604071-DataIngestion\starter\src\run.py", line 254, in main
+    stats[name] = ingest(store, embedder, name, chunks_by_index[name])
+                  ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Downloads\LabVinUni\K5-L3B-DAY06-TranDucDuy-2A202604071-DataIngestion\starter\src\run.py", line 131, in ingest
+    vectors = embedder.embed_documents([c.text for c in batch]) if batch else []
+              ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Downloads\LabVinUni\K5-L3B-DAY06-TranDucDuy-2A202604071-DataIngestion\starter\src\embeddings.py", line 155, in embed_documents
+    out.extend(self._post(texts[i:i + size], "RETRIEVAL_DOCUMENT"))
+               ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Downloads\LabVinUni\K5-L3B-DAY06-TranDucDuy-2A202604071-DataIngestion\starter\src\embeddings.py", line 141, in _post
+    raise RuntimeError("Gemini daily quota reached. Chunks stored so far are kept; "
+                       "re-run later to continue.\n" + detail[:500]) from exc
+RuntimeError: Gemini daily quota reached. Chunks stored so far are kept; re-run later to continue.
+{
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 1000, model: gemini-embedding-1.0, description: Embed content requests per day limit exceeded on Free Tier. See
+EXIT 1

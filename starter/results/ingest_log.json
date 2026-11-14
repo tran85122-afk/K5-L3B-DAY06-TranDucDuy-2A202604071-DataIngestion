@@ -1,0 +1,152 @@
+[
+  {
+    "document_id": "wdr2021",
+    "page": 29,
+    "status": "listed_but_empty",
+    "detail": "content page has no extractable text (see error/empty entry)"
+  },
+  {
+    "document_id": "wdr2021",
+    "page": 77,
+    "status": "listed_but_empty",
+    "detail": "content page has no extractable text (see error/empty entry)"
+  },
+  {
+    "document_id": "wdr2021",
+    "page": 79,
+    "status": "listed_but_empty",
+    "detail": "content page has no extractable text (see error/empty entry)"
+  },
+  {
+    "document_id": "wdr2021",
+    "page": 142,
+    "status": "listed_but_empty",
+    "detail": "content page has no extractable text (see error/empty entry)"
+  },
+  {
+    "document_id": "wdr2021",
+    "page": 1,
+    "status": "empty",
+    "detail": "no extractable text"
+  },
+  {
+    "document_id": "wdr2021",
+    "page": 2,
+    "status": "empty",
+    "detail": "no extractable text"
+  },
+  {
+    "document_id": "wdr2021",
+    "page": 3,
+    "status": "empty",
+    "detail": "no extractable text"
+  },
+  {
+    "document_id": "wdr2021",
+    "page": 12,
+    "status": "empty",
+    "detail": "no extractable text"
+  },
+  {
+    "document_id": "wdr2021",
+    "page": 22,
+    "status": "empty",
+    "detail": "no extractable text"
+  },
+  {
+    "document_id": "wdr2021",
+    "page": 29,
+    "status": "error",
+    "detail": "LimitReachedError('Reached maximum number of tokens per stream.')"
+  },
+  {
+    "document_id": "wdr2021",
+    "page": 42,
+    "status": "empty",
+    "detail": "no extractable text"
+  },
+  {
+    "document_id": "wdr2021",
+    "page": 72,
+    "status": "empty",
+    "detail": "no extractable text"
+  },
+  {
+    "document_id": "wdr2021",
+    "page": 77,
+    "status": "error",
+    "detail": "LimitReachedError('Reached maximum number of tokens per stream.')"
+  },
+  {
+    "document_id": "wdr2021",
+    "page": 79,
+    "status": "error",
+    "detail": "LimitReachedError('Reached maximum number of tokens per stream.')"
+  },
+  {
+    "document_id": "wdr2021",
+    "page": 140,
+    "status": "empty",
+    "detail": "no extractable text"
+  },
+  {
+    "document_id": "wdr2021",
+    "page": 142,
+    "status": "error",
+    "detail": "LimitReachedError('Reached maximum number of tokens per stream.')"
+  },
+  {
+    "document_id": "wdr2021",
+    "page": 171,
+    "status": "error",
+    "detail": "LimitReachedError('Reached maximum number of tokens per stream.')"
+  },
+  {
+    "document_id": "wdr2021",
+    "page": 174,
+    "status": "empty",
+    "detail": "no extractable text"
+  },
+  {
+    "document_id": "wdr2021",
+    "page": 176,
+    "status": "empty",
+    "detail": "no extractable text"
+  },
+  {
+    "document_id": "wdr2021",
+    "page": 208,
+    "status": "empty",
+    "detail": "no extractable text"
+  },
+  {
+    "document_id": "wdr2021",
+    "page": 246,
+    "status": "empty",
+    "detail": "no extractable text"
+  },
+  {
+    "document_id": "wdr2021",
+    "page": 284,
+    "status": "empty",
+    "detail": "no extractable text"
+  },
+  {
+    "document_id": "wdr2021",
+    "page": 322,
+    "status": "empty",
+    "detail": "no extractable text"
+  },
+  {
+    "document_id": "wdr2021",
+    "page": 347,
+    "status": "empty",
+    "detail": "no extractable text"
+  },
+  {
+    "document_id": "wdr2021",
+    "page": 349,
+    "status": "empty",
+    "detail": "no extractable text"
+  }
+]

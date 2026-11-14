@@ -1,0 +1,33 @@
+{
+  "page_counting_rule": "Physical PDF page numbers (1-based). Counted: body pages of the Overview and Chapters 1-9, from the chapter's first page up to the page before its 'Notes' bookmark. Excluded: cover, title, copyright, contents, foreword, acknowledgments, abbreviations, part divider pages, Notes and References pages, and Spotlight sections (short boxed essays with their own notes). Page ranges and part/chapter values are taken from the PDF's own bookmarks (outline). Pages inside the ranges whose text cannot be extracted are logged in starter/results/ingest_log.json and not counted.",
+  "documents": [
+    {
+      "source_id": "wdr2021",
+      "title": "World Development Report 2021: Data for Better Lives",
+      "publisher": "World Bank",
+      "source_path_or_url": "https://openknowledge.worldbank.org/handle/10986/35218",
+      "download_url": "https://openknowledge.worldbank.org/server/api/core/bitstreams/792e0053-50af-5af0-89f1-ce130a90dd2c/content",
+      "doi": "10.1596/978-1-4648-1600-0",
+      "license_or_permission": "CC BY 3.0 IGO (http://creativecommons.org/licenses/by/3.0/igo), per the repository record dc.rights",
+      "attribution": "World Bank. 2021. World Development Report 2021: Data for Better Lives. Washington, DC: World Bank. doi:10.1596/978-1-4648-1600-0. License: CC BY 3.0 IGO.",
+      "accessed_at": "2026-11-14",
+      "version": "Published 2021-03-24; file 9781464816000.pdf, 50,835,531 bytes, 349 physical pages",
+      "sha256": "ea4237fcea1a8926f958324f00d3876030ea56b835a34a81fbdd86827374a9ac",
+      "local_path": "starter/data/wdr2021.pdf",
+      "header_regex": "\\d+ \\| World Development Report 2021|.{3,140} \\| \\d+",
+      "metadata": {"year": 2021, "document_type": "report", "language": "en"},
+      "page_ranges": [
+        {"first": 23, "last": 37, "metadata": {"part": "overview", "chapter": "overview", "chapter_title": "Overview"}},
+        {"first": 43, "last": 62, "metadata": {"part": "I", "chapter": "1", "chapter_title": "Harnessing the value of data for the poor"}},
+        {"first": 73, "last": 94, "metadata": {"part": "I", "chapter": "2", "chapter_title": "Data as a force for public good"}},
+        {"first": 111, "last": 130, "metadata": {"part": "I", "chapter": "3", "chapter_title": "Data as a resource for the private sector"}},
+        {"first": 141, "last": 162, "metadata": {"part": "I", "chapter": "4", "chapter_title": "Creative reuses of data for greater value"}},
+        {"first": 177, "last": 197, "metadata": {"part": "II", "chapter": "5", "chapter_title": "Data infrastructure policy: Ensuring equitable access for poor people"}},
+        {"first": 209, "last": 228, "metadata": {"part": "II", "chapter": "6", "chapter_title": "Data policies, laws, and regulations: Creating a trust environment"}},
+        {"first": 247, "last": 269, "metadata": {"part": "II", "chapter": "7", "chapter_title": "Creating value in the data economy: The role of competition, trade, and tax policy"}},
+        {"first": 285, "last": 307, "metadata": {"part": "II", "chapter": "8", "chapter_title": "Institutions for data governance: Building trust through collective action"}},
+        {"first": 323, "last": 341, "metadata": {"part": "III", "chapter": "9", "chapter_title": "Creating an integrated national data system"}}
+      ]
+    }
+  ]
+}

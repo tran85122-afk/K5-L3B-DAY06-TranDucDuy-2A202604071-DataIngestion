@@ -1,0 +1,34 @@
+{
+  "A": {
+    "chunks": 2001,
+    "embedded_this_run": 0,
+    "unchanged_skipped": 2001,
+    "deleted_obsolete": 0,
+    "rows_in_store": 2001,
+    "len_min": 56,
+    "len_mean": 478.3,
+    "len_median": 500,
+    "len_max": 500,
+    "total_chars": 957027,
+    "embed_seconds": 0.0,
+    "ingest_seconds": 0.08,
+    "embedding_tokens_this_run": 0,
+    "cost_usd_this_run": "API reports no token usage; check provider billing (free tier = 0)"
+  },
+  "B": {
+    "chunks": 1495,
+    "embedded_this_run": 0,
+    "unchanged_skipped": 1495,
+    "deleted_obsolete": 0,
+    "rows_in_store": 1495,
+    "len_min": 29,
+    "len_mean": 579.5,
+    "len_median": 622,
+    "len_max": 800,
+    "total_chars": 866281,
+    "embed_seconds": 0.0,
+    "ingest_seconds": 0.08,
+    "embedding_tokens_this_run": 0,
+    "cost_usd_this_run": "API reports no token usage; check provider billing (free tier = 0)"
+  }
+}

@@ -1,0 +1,495 @@
+﻿strategy,question_id,question,expected_answer,top3_chunk_ids,top3_text,evidence_hit_at_3_auto,grounding_score_0_2,reason
+A,t16,"Under the conditional transfers model, when is cross-border data allowed to flow freely?",Once a series of mandatory regulatory safeguards are met.,wdr2021:p259:f0 | wdr2021:p260:f1 | wdr2021:p261:f3,"data flows are seldom fully open or closed, but they
+can be placed on a spectrum of three broad models
+(figure 7.5). These range from an open transfers
+approach allowing free movement of data based on
+private standards, to a conditional transfers approach
+based on conformity with established regulatory
+safeguards, to a limited transfers approach entailing
+government approval for cross-border movements
+as well as compliance with localization requirements
+for local storage or processing of data. I
+---
+ata transfers. It sets
+out a series of mandatory regulatory safeguards that,
+once met, allow for the free flow of cross-border data.
+Such safeguards can restrict data sharing to jurisdictions that meet certain adequacy standards for data
+protection or to firms that have adopted mandatory
+data protection protocols, such as binding corporate
+rules or contractual terms.
+The European Union’s 1995 Data Protection
+Directive, and subsequent General Data Protection
+Regulation, pioneered this kind of mod
+---
+cted at the security of
+the domestic digital market, restricting its links with
+foreign suppliers and consumers. The conditional
+transfers model is a halfway house of sorts, allowing
+international transfers while requiring additional
+guarantees for the protection of personal data in
+destination markets, thereby adding somewhat to
+trading costs.
+Table 7.1 Policy bases for regulating cross-border personal data
+Model Policy goal Regulatory costs Digital trade flows
+Limited transfers Cybersecurity a",True,2,"Chunk rank 2 (wdr2021:p260:f1, tr. 260) chứa nguyên văn quy định đáp ứng mandatory regulatory safeguards trước khi luân chuyển dữ liệu tự do."
+B,t16,"Under the conditional transfers model, when is cross-border data allowed to flow freely?",Once a series of mandatory regulatory safeguards are met.,wdr2021:p261:p2 | wdr2021:p259:p0 | wdr2021:p260:p0,"ata safeguards. The open transfers model minimizes the regulatory burden on service providers at
+both ends of a data transfer, maximizing the freedom
+businesses can enjoy in their data partnerships as
+well as their own business models, but providing few
+safeguards to boost trust in such data transfers. The
+limited transfers model is directed at the security of
+the domestic digital market, restricting its links with
+foreign suppliers and consumers. The conditional
+transfers model is a halfway house of sorts, allowing
+international transfers while requiring additional
+guarantees for the protection of personal data in
+destination markets, thereby adding somewhat to
+trading costs.
+---
+data flows are seldom fully open or closed, but they
+can be placed on a spectrum of three broad models
+(figure 7.5). These range from an open transfers
+approach allowing free movement of data based on
+private standards, to a conditional transfers approach
+based on conformity with established regulatory
+safeguards, to a limited transfers approach entailing
+government approval for cross-border movements
+as well as compliance with localization requirements
+for local storage or processing of data. In addition, the
+way in which the rules are implemented may make
+any one of these stylized models more or less open
+than the letter of the regulation may suggest.
+---
+their own data protection practices. Under this overarching framework, stricter data protection rules can
+nonetheless be incorporated in sectoral regulations,
+as indeed happens in highly regulated industries
+such as finance and health, or in a particular subnational jurisdiction, such as the state of California.50
+“Conditional transfers” model. This model seeks to
+strike a balance between imperatives to protect data
+and the need for openness of data transfers. It sets
+out a series of mandatory regulatory safeguards that,
+once met, allow for the free flow of cross-border data.",True,2,"Chunk rank 3 (wdr2021:p260:p0, tr. 260) chứa nguyên đoạn 'Conditional transfers' và câu bằng chứng về mandatory regulatory safeguards."
+C,t16,"Under the conditional transfers model, when is cross-border data allowed to flow freely?",Once a series of mandatory regulatory safeguards are met.,wdr2021:p261:p2 | wdr2021:p259:p0 | wdr2021:p260:p0,"ata safeguards. The open transfers model minimizes the regulatory burden on service providers at
+both ends of a data transfer, maximizing the freedom
+businesses can enjoy in their data partnerships as
+well as their own business models, but providing few
+safeguards to boost trust in such data transfers. The
+limited transfers model is directed at the security of
+the domestic digital market, restricting its links with
+foreign suppliers and consumers. The conditional
+transfers model is a halfway house of sorts, allowing
+international transfers while requiring additional
+guarantees for the protection of personal data in
+destination markets, thereby adding somewhat to
+trading costs.
+---
+data flows are seldom fully open or closed, but they
+can be placed on a spectrum of three broad models
+(figure 7.5). These range from an open transfers
+approach allowing free movement of data based on
+private standards, to a conditional transfers approach
+based on conformity with established regulatory
+safeguards, to a limited transfers approach entailing
+government approval for cross-border movements
+as well as compliance with localization requirements
+for local storage or processing of data. In addition, the
+way in which the rules are implemented may make
+any one of these stylized models more or less open
+than the letter of the regulation may suggest.
+---
+their own data protection practices. Under this overarching framework, stricter data protection rules can
+nonetheless be incorporated in sectoral regulations,
+as indeed happens in highly regulated industries
+such as finance and health, or in a particular subnational jurisdiction, such as the state of California.50
+“Conditional transfers” model. This model seeks to
+strike a balance between imperatives to protect data
+and the need for openness of data transfers. It sets
+out a series of mandatory regulatory safeguards that,
+once met, allow for the free flow of cross-border data.",True,2,"Chunk rank 3 (wdr2021:p260:p0, tr. 260) khớp filter chapter='7' và giữ trọn đoạn bằng chứng giống B, đủ căn cứ trả lời đúng."
+A,t17,What duties do trustees of a data trust have?,"To steward data with impartiality, prudence, transparency and undivided loyalty to the beneficiaries.",wdr2021:p300:f3 | wdr2021:p300:f4 | wdr2021:p216:f2,"ncial
+sector. A data trust, a unique type of accountability-based data intermediary, is based on the legal structure of a “trust,” and as such imposes a fi duciary duty
+on trustees.73 Trustees are legally required to steward
+data with impartiality, prudence, transparency, and
+undivided loyalty toward the trust’s benefi ciaries, and
+in accordance with the trust’s internal rules of governance.74 Depending on the context, additional rules
+governing data access and use, as well as internal liability
+---
+data access and use, as well as internal liability mechanisms for data breaches or misuse, can be
+tailored accordingly through contractual agreement.
+One of the alleged benefi ts of data trusts is that they
+offer individuals and groups a means of restoring
+“bottom-up” control over personal data: individuals
+can pool the legal rights they have over their personal
+data within the framework of the trust and negotiate
+with larger data “controllers” from there.75
+Data trusts may be particularly usefu
+---
+if they are anonymized or aggr
+egated to, for example, develop new
+products and services, or to make risk assessments
+without impinging on the data subject’s rights. Relying on a fiduciary duty approach would require data
+collection and processing firms to always act in the
+best interests of data subjects and in ways that are not
+detrimental to them. Legally obligating providers to
+act in the best interests of their customers can help
+establish trust and confidence among customers
+that their da",True,2,"Chunk rank 1 (wdr2021:p300:f3, tr. 300) nêu đủ 4 nghĩa vụ ủy thác của trustees (impartiality, prudence, transparency, undivided loyalty), chỉ bị tách chữ ghép 'benefi ciaries'."
+B,t17,What duties do trustees of a data trust have?,"To steward data with impartiality, prudence, transparency and undivided loyalty to the beneficiaries.",wdr2021:p300:p2 | wdr2021:p35:p4 | wdr2021:p300:p3,"A data trust, a unique type of accountability-based data intermediary, is based on the legal structure of a “trust,” and as such imposes a fi duciary duty
+on trustees.73 Trustees are legally required to steward
+data with impartiality, prudence, transparency, and
+undivided loyalty toward the trust’s benefi ciaries, and
+in accordance with the trust’s internal rules of governance.74 Depending on the context, additional rules
+governing data access and use, as well as internal liability mechanisms for data breaches or misuse, can be
+tailored accordingly through contractual agreement.
+---
+Although there is no one-size-fits-all approach
+for governments seeking to create robust institutional arrangements for data governance, certain
+institutional design characteristics are of universal
+importance. Institutions should be formally mandated, sufficiently resourced, and have the technical
+capacity needed to effectively undertake their functions in a coordinated manner across the whole of
+government. The main institutional actors within
+this framework often include data governance entities, data protection authorities, and cybersecurity
+agencies, as well as new types of institutions such
+as data trusts—accountability-oriented data intermediaries allowing individuals to pool their legal rights
+over data and assign them to trustees with explicit
+fiduciary duties.
+---
+One of the alleged benefi ts of data trusts is that they
+offer individuals and groups a means of restoring
+“bottom-up” control over personal data: individuals
+can pool the legal rights they have over their personal
+data within the framework of the trust and negotiate
+with larger data “controllers” from there.75
+Data trusts may be particularly useful in managing
+personal health data in the context of COVID-19 contact tracing in which deidentifi ed data on test results
+can be shared (with data protection safeguards) and
+used to alert other individuals if they are at risk of
+infection.76 Data trusts can also support the responsible collection and reuse of sensitive health data to
+support academic research or public health monitoring. Data trusts are still largely theoretical constructs.",True,2,"Chunk rank 1 (wdr2021:p300:p2, tr. 300) là đoạn văn hoàn chỉnh định nghĩa data trust và nêu trọn vẹn nghĩa vụ của trustees."
+C,t17,What duties do trustees of a data trust have?,"To steward data with impartiality, prudence, transparency and undivided loyalty to the beneficiaries.",wdr2021:p300:p2 | wdr2021:p35:p4 | wdr2021:p300:p3,"A data trust, a unique type of accountability-based data intermediary, is based on the legal structure of a “trust,” and as such imposes a fi duciary duty
+on trustees.73 Trustees are legally required to steward
+data with impartiality, prudence, transparency, and
+undivided loyalty toward the trust’s benefi ciaries, and
+in accordance with the trust’s internal rules of governance.74 Depending on the context, additional rules
+governing data access and use, as well as internal liability mechanisms for data breaches or misuse, can be
+tailored accordingly through contractual agreement.
+---
+Although there is no one-size-fits-all approach
+for governments seeking to create robust institutional arrangements for data governance, certain
+institutional design characteristics are of universal
+importance. Institutions should be formally mandated, sufficiently resourced, and have the technical
+capacity needed to effectively undertake their functions in a coordinated manner across the whole of
+government. The main institutional actors within
+this framework often include data governance entities, data protection authorities, and cybersecurity
+agencies, as well as new types of institutions such
+as data trusts—accountability-oriented data intermediaries allowing individuals to pool their legal rights
+over data and assign them to trustees with explicit
+fiduciary duties.
+---
+One of the alleged benefi ts of data trusts is that they
+offer individuals and groups a means of restoring
+“bottom-up” control over personal data: individuals
+can pool the legal rights they have over their personal
+data within the framework of the trust and negotiate
+with larger data “controllers” from there.75
+Data trusts may be particularly useful in managing
+personal health data in the context of COVID-19 contact tracing in which deidentifi ed data on test results
+can be shared (with data protection safeguards) and
+used to alert other individuals if they are at risk of
+infection.76 Data trusts can also support the responsible collection and reuse of sensitive health data to
+support academic research or public health monitoring. Data trusts are still largely theoretical constructs.",True,2,"Tương tự B (câu không có filter), chunk rank 1 (wdr2021:p300:p2, tr. 300) cung cấp đầy đủ nghĩa vụ pháp lý của trustees."
+A,t18,Why was Convention 108 updated to Convention 108+?,In response to the entry into force of the GDPR.,wdr2021:p265:f0 | wdr2021:p212:f3 | wdr2021:p260:f1,"they are not suitable for addressing issues of regulatory convergence. Progress toward harmonization
+around the necessary regulatory safeguards for data
+rights, or common data standards and architectures
+that enable the exchange of information, could benefit from the more cooperative, and perhaps nonbinding, approaches offered by other international
+instruments. Relevant examples are the modernized
+Convention 108 of the Council of Europe on data
+protection and the Budapest Convention on Cybercri
+---
+c Co-operation and Development (OECD).
+Safeguards must necessarily adapt to technological
+change and will continue to evolve accordingly. For
+example, the OECD guidelines were updated after the
+launch in 1995 of the World Wide Web, and Convention 108 was updated to Convention 108+ in response
+to the entry into force of the GDPR.
+Safeguards for nonpersonal data entail a more
+straightforward balancing of economic incentives
+and interests, grounded in IPRs as typically enshrined
+in domestic law.
+Fo
+---
+ata transfers. It sets
+out a series of mandatory regulatory safeguards that,
+once met, allow for the free flow of cross-border data.
+Such safeguards can restrict data sharing to jurisdictions that meet certain adequacy standards for data
+protection or to firms that have adopted mandatory
+data protection protocols, such as binding corporate
+rules or contractual terms.
+The European Union’s 1995 Data Protection
+Directive, and subsequent General Data Protection
+Regulation, pioneered this kind of mod",True,2,"Dù A không lọc nên rank 1 và rank 3 lạc sang chapter 7, chunk rank 2 (wdr2021:p212:f3, tr. 212, ch.6) vẫn chứa nguyên văn lý do cập nhật Convention 108+ để đáp ứng GDPR."
+B,t18,Why was Convention 108 updated to Convention 108+?,In response to the entry into force of the GDPR.,wdr2021:p307:p8 | wdr2021:p213:p5 | wdr2021:p265:p0,"To meet the challenges from cross-border data
+transfers associated with safeguarding and enabling
+---
+Countries enter into MLATs either through bilateral treaties with other countries or by adhering to
+an instrument that features a built-in MLAT process,
+such as the Council of Europe’s Budapest Convention
+of 2001. The main legal instrument for cybersecurity
+in Europe and beyond, this convention provides for
+balancing security interests with respect for human
+rights.16 Sixty-five countries have acceded to the
+convention, with an additional 12 s
+tates participating as observers.17 Of the members and observers, 26
+countries are lower-middle-income. Recently, some
+governments have been sidestepping the MLAT process by making requests for evidence directly to foreign law enforcement agencies and allowing them to
+do likewise.
+---
+they are not suitable for addressing issues of regulatory convergence. Progress toward harmonization
+around the necessary regulatory safeguards for data
+rights, or common data standards and architectures
+that enable the exchange of information, could benefit from the more cooperative, and perhaps nonbinding, approaches offered by other international
+instruments. Relevant examples are the modernized
+Convention 108 of the Council of Europe on data
+protection and the Budapest Convention on Cybercrime. Because these instruments lack the binding
+nature (Convention 108) or enforcement mechanisms
+(Cybercrime Convention) found in the WTO and in
+PTAs, they may offer a less demanding channel for
+countries to incorporate key principles on data governance.",False,0,"B không dùng filter chapter='6'; top-3 lấy p.307 (ch.8), p.213 (MLAT/Budapest Convention) và p.265 (ch.7 chỉ nhắc tên modernized Convention 108, không nêu lý do GDPR)."
+C,t18,Why was Convention 108 updated to Convention 108+?,In response to the entry into force of the GDPR.,wdr2021:p213:p5 | wdr2021:p212:p2 | wdr2021:p213:p6,"Countries enter into MLATs either through bilateral treaties with other countries or by adhering to
+an instrument that features a built-in MLAT process,
+such as the Council of Europe’s Budapest Convention
+of 2001. The main legal instrument for cybersecurity
+in Europe and beyond, this convention provides for
+balancing security interests with respect for human
+rights.16 Sixty-five countries have acceded to the
+convention, with an additional 12 s
+tates participating as observers.17 Of the members and observers, 26
+countries are lower-middle-income. Recently, some
+governments have been sidestepping the MLAT process by making requests for evidence directly to foreign law enforcement agencies and allowing them to
+do likewise.
+---
+Safeguards must necessarily adapt to technological
+change and will continue to evolve accordingly. For
+example, the OECD guidelines were updated after the
+launch in 1995 of the World Wide Web, and Convention 108 was updated to Convention 108+ in response
+to the entry into force of the GDPR.
+Safeguards for nonpersonal data entail a more
+straightforward balancing of economic incentives
+and interests, grounded in IPRs as typically enshrined
+in domestic law.
+For datasets containing mixed data, it is the
+responsibility of the data processing entity to ensure
+that personal data are protected. This compliance challenge has become more acute in recent years because
+source data and collection methods have evolved and
+Figure 6.2 The evolution of data protection
+Source: WDR 2021 team.
+---
+In this vein, the United States adopted
+the Clarifying Lawful Overseas Use of Data (CLOUD)
+Act of 2018, which authorizes the US government to
+enter into bilateral agreements with foreign governments, allowing the parties to remove any legal
+barriers that would prevent the other party from
+seeking and obtaining data directly from the service
+providers in the other country under certain circumstances.18 This has attracted comment for potentially
+sidestepping legal protections for personal data.",True,2,"SQL filter chapter='6' loại nhiễu ch.7/ch.8, kéo chunk rank 2 (wdr2021:p212:p2, tr. 212) lên top-3 với nguyên văn câu Convention 108+ ra đời để đáp ứng GDPR."
+A,t19,"In an integrated national data system, when should access to data be restricted?","Only as a last resort, after legal and technological protection solutions.",wdr2021:p326:f3 | wdr2021:p334:f12 | wdr2021:p61:f2,"by
+legal and technological solutions before restricting
+access to data, which is a measure of last resort in an
+integrated national data system.
+Data openness and ﬂ ow. Open data and
+interoperability foster the fl ow of data
+within government and between the
+participants in the national data system.
+Common standards enable the exchange of data
+across government agencies to improve planning and
+decision-making as well as to enable cross-border data
+fl ows and collaboration.
+Data quality control.
+---
+munities and individuals and ensure
+that benefits from an integrated data system are
+broadly shared.
+---
+framework must be built around a data
+system that not only ensures that data transactions
+are safe, but also actively promotes access to data by
+all stakeholders (figure 1.5).
+This Report concludes with an aspirational vision
+of an integrated national data system (INDS) that can
+deliver on the promise of producing high-quality data
+and then making data open in a way that it is both
+protected and accessible to be shared and reused by all
+stakeholders (chapter 9). Such an aspirational INDS
+works",False,1,"Chunk rank 1 (wdr2021:p326:f3, tr. 326) bị cắt phần đầu 'To the extent possible, robust data protection is achieved' sang chunk trước nên auto hit_at_3=False; chỉ còn nửa sau câu nên đủ ngữ cảnh một phần."
+B,t19,"In an integrated national data system, when should access to data be restricted?","Only as a last resort, after legal and technological protection solutions.",wdr2021:p326:p2 | wdr2021:p324:p4 | wdr2021:p327:p7,"Data protection. To ensure rigorous pro-
+tection of data and sensitive information, secure storage and transfer of data
+and safeguards against misuse are in
+place. This arrangement works as a catalyst for trust
+and participation in the system. As the types and
+volume of data expand, the producers and users of
+data increase, and their interoperability improves,
+data protection becomes increasingly important
+for safeguarding the integrity of the system. To the
+extent possible, robust data protection is achieved by
+legal and technological solutions before restricting
+access to data, which is a measure of last resort in an
+integrated national data system.
+---
+As the scope of the
+system expands, so do the data protection requirements and the needs for safeguards against misuse.
+An integrated national data system implies that
+all participants and stakeholders collaborate in a
+system in which data are safely produced, exchanged,
+and used. It does not mean that all data are stored
+in an integrated national database. And while such
+collaboration requires close coordination and shared
+governance between the participants, it does not necessarily require a centralized governance structure.
+---
+Laws and regulations. In an integrated
+national data system, laws and regulations guiding data openness, usage,
+and protection are in place (see chapter
+6). Open data laws and access to information legislation complement one another by requiring public
+institutions to disclose data by default while granting
+individuals the right to compel disclosure. The rights
+of individuals on the use of their personal data are
+recognized and reserved, and an independent data
+protection authority safeguards those rights. Data
+controllers and processors are held accountable to
+ensure cybersecurity. Governments play a stewardship role by incorporating soft law around data use",True,2,"Chunk rank 1 (wdr2021:p326:p2, tr. 326) giữ trọn đoạn 'Data protection.', nêu đủ điều kiện giải pháp pháp lý và kỹ thuật trước khi hạn chế truy cập như biện pháp cuối cùng."
+C,t19,"In an integrated national data system, when should access to data be restricted?","Only as a last resort, after legal and technological protection solutions.",wdr2021:p326:p2 | wdr2021:p324:p4 | wdr2021:p327:p7,"Data protection. To ensure rigorous pro-
+tection of data and sensitive information, secure storage and transfer of data
+and safeguards against misuse are in
+place. This arrangement works as a catalyst for trust
+and participation in the system. As the types and
+volume of data expand, the producers and users of
+data increase, and their interoperability improves,
+data protection becomes increasingly important
+for safeguarding the integrity of the system. To the
+extent possible, robust data protection is achieved by
+legal and technological solutions before restricting
+access to data, which is a measure of last resort in an
+integrated national data system.
+---
+As the scope of the
+system expands, so do the data protection requirements and the needs for safeguards against misuse.
+An integrated national data system implies that
+all participants and stakeholders collaborate in a
+system in which data are safely produced, exchanged,
+and used. It does not mean that all data are stored
+in an integrated national database. And while such
+collaboration requires close coordination and shared
+governance between the participants, it does not necessarily require a centralized governance structure.
+---
+Laws and regulations. In an integrated
+national data system, laws and regulations guiding data openness, usage,
+and protection are in place (see chapter
+6). Open data laws and access to information legislation complement one another by requiring public
+institutions to disclose data by default while granting
+individuals the right to compel disclosure. The rights
+of individuals on the use of their personal data are
+recognized and reserved, and an independent data
+protection authority safeguards those rights. Data
+controllers and processors are held accountable to
+ensure cybersecurity. Governments play a stewardship role by incorporating soft law around data use",True,2,"Tương tự B (câu không có filter), chunk rank 1 (wdr2021:p326:p2, tr. 326) cung cấp nguyên đoạn bằng chứng hoàn chỉnh."
+A,t20,Who produces citizen-generated data?,"Individuals, often to fill gaps in public and private sector data.",wdr2021:p75:f3 | wdr2021:p75:f4 | wdr2021:p333:f3,"mbination with administrative
+data and census data. a
+Citizen-generated data are produced by
+individuals, often to fi ll gaps in public and
+private sector data or when the accuracy
+of existing data is in question. These data,
+which can have an important monitoring and accountability function, contribute to solving problems that
+citizens face. b Examples include HarassMap, an Egyptian
+tool that maps cases of sexual harassment based on
+citizen reports, and ForestWatchers, a platform through
+which
+---
+rts, and ForestWatchers, a platform through
+which citizens monitor the deforestation of the Amazon.
+By contrast, machine-generated data are
+automatically generated by a sensor,
+application, or computer process without
+human interactions. An example is the
+sensors that monitor air pollution. These data emerge
+when devices are embedded with sensors and other
+technologies, allowing them to transfer data with each
+other, a system known as the Internet of Things.
+Geospatial data relate multiple layer
+---
+iety and individuals should be empowered
+to participate in the national data system as users of
+data and as data producers in their own right, whether
+citizen-generated or collected by CSOs (figure 9.4).
+A key function of CSOs, national and international
+NGOs, individual citizens, and journalists and the
+media is to hold the government and private sector
+accountable. But the national data system also stands
+to gain from the systematic incorporation of citizen-
+generated data for use by other par",True,2,"Chunk rank 1 (wdr2021:p75:f3, tr. 75) chứa nguyên văn định nghĩa citizen-generated data do cá nhân tạo ra (chỉ bị lỗi chữ ghép 'fi ll')."
+B,t20,Who produces citizen-generated data?,"Individuals, often to fill gaps in public and private sector data.",wdr2021:p75:p3 | wdr2021:p75:p2 | wdr2021:p327:p0,"b Examples include HarassMap, an Egyptian
+tool that maps cases of sexual harassment based on
+citizen reports, and ForestWatchers, a platform through
+which citizens monitor the deforestation of the Amazon.
+By contrast, machine-generated data are
+automatically generated by a sensor,
+application, or computer process without
+human interactions. An example is the
+sensors that monitor air pollution. These data emerge
+when devices are embedded with sensors and other
+technologies, allowing them to transfer data with each
+other, a system known as the Internet of Things.
+---
+Sample surveys draw on a smaller, representative sample of the entire population,
+typically from censuses, to collect detailed
+information more frequently. These surveys cover many domains such as household surveys,
+farm surveys, enterprise surveys, labor force surveys,
+and demographic and health surveys. Key offi cial statistics, such as unemployment and national accounts, rely
+on survey data, often in combination with administrative
+data and census data. a
+Citizen-generated data are produced by
+individuals, often to fi ll gaps in public and
+private sector data or when the accuracy
+of existing data is in question. These data,
+which can have an important monitoring and accountability function, contribute to solving problems that
+citizens face.
+---
+production of citizen-generated data that act as a
+check on offi cial government data if they are in
+doubt, fi ll gaps in coverage, or otherwise complement public intent and private intent data. The data
+produced by civil society are valuable beyond their
+primary functions, and their value increases through
+wider use and reuse by other participants in the
+national data system.",True,2,"Chunk rank 2 (wdr2021:p75:p2, tr. 75) giữ trọn đoạn giải thích dữ liệu công dân và nguồn tạo lập bởi cá nhân."
+C,t20,Who produces citizen-generated data?,"Individuals, often to fill gaps in public and private sector data.",wdr2021:p75:p3 | wdr2021:p75:p2 | wdr2021:p327:p0,"b Examples include HarassMap, an Egyptian
+tool that maps cases of sexual harassment based on
+citizen reports, and ForestWatchers, a platform through
+which citizens monitor the deforestation of the Amazon.
+By contrast, machine-generated data are
+automatically generated by a sensor,
+application, or computer process without
+human interactions. An example is the
+sensors that monitor air pollution. These data emerge
+when devices are embedded with sensors and other
+technologies, allowing them to transfer data with each
+other, a system known as the Internet of Things.
+---
+Sample surveys draw on a smaller, representative sample of the entire population,
+typically from censuses, to collect detailed
+information more frequently. These surveys cover many domains such as household surveys,
+farm surveys, enterprise surveys, labor force surveys,
+and demographic and health surveys. Key offi cial statistics, such as unemployment and national accounts, rely
+on survey data, often in combination with administrative
+data and census data. a
+Citizen-generated data are produced by
+individuals, often to fi ll gaps in public and
+private sector data or when the accuracy
+of existing data is in question. These data,
+which can have an important monitoring and accountability function, contribute to solving problems that
+citizens face.
+---
+production of citizen-generated data that act as a
+check on offi cial government data if they are in
+doubt, fi ll gaps in coverage, or otherwise complement public intent and private intent data. The data
+produced by civil society are valuable beyond their
+primary functions, and their value increases through
+wider use and reuse by other participants in the
+national data system.",True,2,"Tương tự B (câu không có filter), chunk rank 2 (wdr2021:p75:p2, tr. 75) chứa đầy đủ bằng chứng cho câu trả lời."

@@ -1,0 +1,68 @@
+{
+  "A": {
+    "dev": {
+      "n": 15,
+      "hit1": 11,
+      "hit3": 12,
+      "filter_questions": 3,
+      "filter_compliant": 2,
+      "hit1_rate": 0.7333,
+      "hit3_rate": 0.8,
+      "filter_compliance": "2/3"
+    },
+    "test": {
+      "n": 5,
+      "hit1": 2,
+      "hit3": 4,
+      "filter_questions": 2,
+      "filter_compliant": 1,
+      "hit1_rate": 0.4,
+      "hit3_rate": 0.8,
+      "filter_compliance": "1/2"
+    }
+  },
+  "B": {
+    "dev": {
+      "n": 15,
+      "hit1": 12,
+      "hit3": 14,
+      "filter_questions": 3,
+      "filter_compliant": 3,
+      "hit1_rate": 0.8,
+      "hit3_rate": 0.9333,
+      "filter_compliance": "3/3"
+    },
+    "test": {
+      "n": 5,
+      "hit1": 2,
+      "hit3": 4,
+      "filter_questions": 2,
+      "filter_compliant": 1,
+      "hit1_rate": 0.4,
+      "hit3_rate": 0.8,
+      "filter_compliance": "1/2"
+    }
+  },
+  "C": {
+    "dev": {
+      "n": 15,
+      "hit1": 12,
+      "hit3": 14,
+      "filter_questions": 3,
+      "filter_compliant": 3,
+      "hit1_rate": 0.8,
+      "hit3_rate": 0.9333,
+      "filter_compliance": "3/3"
+    },
+    "test": {
+      "n": 5,
+      "hit1": 2,
+      "hit3": 5,
+      "filter_questions": 2,
+      "filter_compliant": 2,
+      "hit1_rate": 0.4,
+      "hit3_rate": 1.0,
+      "filter_compliance": "2/2"
+    }
+  }
+}

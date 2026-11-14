@@ -1,0 +1,40 @@
+{
+  "run_at_utc": "2026-11-14T05:42:52+00:00",
+  "embedding_provider": "gemini",
+  "embedding_tokens_total_incl_queries": 0,
+  "cost_usd_total_incl_queries": "API reports no token usage; check provider billing (free tier = 0)",
+  "embedding_model": "gemini-embedding-001",
+  "dimensions": 768,
+  "vector_store": "PostgreSQL + pgvector, cosine distance (<=>), exact search (no ANN index)",
+  "top_k": 3,
+  "indexes": {
+    "A": {
+      "chunking": "fixed",
+      "size": 500,
+      "overlap": 50
+    },
+    "B": {
+      "chunking": "paragraph",
+      "max_size": 800
+    }
+  },
+  "strategies": {
+    "A": {
+      "index": "A",
+      "use_filter": false
+    },
+    "B": {
+      "index": "B",
+      "use_filter": false
+    },
+    "C": {
+      "index": "B",
+      "use_filter": true
+    }
+  },
+  "versions": {
+    "psycopg": "3.3.8",
+    "pypdf": "6.21.4",
+    "python-dotenv": "1.2.4"
+  }
+}
